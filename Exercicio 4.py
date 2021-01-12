@@ -1,0 +1,10 @@
+frase = input("Digite algo: ")
+
+print(f"O tipo primitivo desse valor é {type(frase)}")
+print(f"Só tem espaços: ", frase.isspace())
+print(f'É um número: ', frase.isnumeric())
+print(f'É alfanumerico: ', frase.isalnum())
+print(f'É alfabético: ', frase.isalpha())
+print(f'Esta em maisculas: ', frase.isupper())
+print(f'Esta em minusculas: ', frase.islower())
+print(f'Esta capitalizada: ', frase.istitle())
