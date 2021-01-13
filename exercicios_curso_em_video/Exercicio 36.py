@@ -1,5 +1,5 @@
 print('=' * 35)
-print('Programa Meu Python, Minha vida')
+print('Programa Minha casa, Minha vida')
 print('=' * 35)
 casa = float(input('Qua o valor da casa? R$: '))
 salario = float(input('Qual o seu salario? R$: '))
