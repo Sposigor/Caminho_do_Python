@@ -1,7 +1,7 @@
 # Caminho do Python
 
 
-Meus estudos sobre **Python**, básicamente são exercicios do curso do professor **Guanabara**.
+Meus estudos sobre **Python**, se iniciaram com os exercicios do curso do professor **Guanabara**.
  
 Além dos exercicios o curso que ainda está em produção. 
 
@@ -13,11 +13,9 @@ Além dos exercicios o curso que ainda está em produção.
 
 Aqui vou deixar a playlist sobre os exercicios de Python, [para quem tiver interesse.](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=1&ab_channel=CursoemV%C3%ADdeo)
 
-Além do conteudo do youtube, também é possivel acessar o [site](https://www.cursoemvideo.com/)
-
 Além disso, também uso outras plataformas de estudo para aperfeiçoar meu aprendizado.
 
-[Na IME USP tem um material muito legal](https://panda.ime.usp.br/panda/python)
+[Na IME USP tem um material muito legal](https://panda.ime.usp.br/panda)
 
 - Recomendo acessa o [Como Pensar Como um Cientista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/index.html) que é baseado no livro [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 - [Introdução à Computação com Python: um curso interativo](https://panda.ime.usp.br/cc110/static/cc110/index.html)
